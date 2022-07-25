@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">750046481649-313um2nhh6nb0gm4vq1h0q2086jvs866.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">750046481649</string>
+    <string name="google_api_key" translatable="false">AIzaSyCO0q23g36280yK5r5Zcjp3fbGxqgZIOgU</string>
+    <string name="google_app_id" translatable="false">1:750046481649:android:d31d31ff5adc432b8ced50</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCO0q23g36280yK5r5Zcjp3fbGxqgZIOgU</string>
+    <string name="google_storage_bucket" translatable="false">metacraftio.appspot.com</string>
+    <string name="project_id" translatable="false">metacraftio</string>
+</resources>

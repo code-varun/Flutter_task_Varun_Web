@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750046481649",
+    "project_id": "metacraftio",
+    "storage_bucket": "metacraftio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750046481649:android:d31d31ff5adc432b8ced50",
+        "android_client_info": {
+          "package_name": "com.example.metacraftio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750046481649-313um2nhh6nb0gm4vq1h0q2086jvs866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0q23g36280yK5r5Zcjp3fbGxqgZIOgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750046481649-313um2nhh6nb0gm4vq1h0q2086jvs866.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

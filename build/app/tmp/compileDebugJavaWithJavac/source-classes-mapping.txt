@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/metacraftio/BuildConfig.java
+ com.example.metacraftio.BuildConfig
